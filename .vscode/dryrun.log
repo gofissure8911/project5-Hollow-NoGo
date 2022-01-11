@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory 'c:/Users/weng0/OneDrive/??/TCG/TCG-Project4-sample'
+make.exe: Leaving directory 'c:/Users/weng0/OneDrive/??/TCG/TCG-Project4-sample'
+ 
+make.exe: *** INTERNAL: readdir: Invalid argument.  Stop.
+ 
